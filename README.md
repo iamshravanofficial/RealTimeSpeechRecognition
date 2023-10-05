@@ -1,5 +1,3 @@
-# RealTimeSpeechRecognition
-
 # Real Time Speech Recognition
 
 Brief description of the project.
